@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;My+name+is+Kayque+Lopes;But+you+can+call+me+Sekishiki+or+SÊKI;I'm+27+years+old;I'm+from+Salvador,+BA;I+study+game+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;My+name+is+Kayque+Lopes;But+you+can+call+me+Sekishiki+or+SÊKI;I'm+28+years+old;I'm+from+Salvador,+BA;I+study+game+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center" display="flex" justify-content="space-between">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KayqueSekishiki&custom_title=Kayque%20Sekishiki%27s%20GitHub%20Stats&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kayque Sekishiki's github stats" /> 
