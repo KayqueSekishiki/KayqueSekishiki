@@ -1,75 +1,285 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;My+name+is+Kayque+Lopes;But+you+can+call+me+Sêki;I'm+29+years+old;I'm+from+Salvador,+BA;I+study+game+and+frontend+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center" display="flex" justify-content="space-between">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KayqueSekishiki&custom_title=Kayque%20Sekishiki%27s%20GitHub%20Stats&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kayque Sekishiki's github stats" /> 
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueSekishiki&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<div align="center">
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KayqueSekishiki&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00FFFF,50:A855FF,100:FF2BD6&text=KAYQUE%20SEKISHIKI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Game%20Developer&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=BOOTING+SYSTEM...;Initializing+Engineer+Profile...;React+%7C+Next+%7C+Node;Unity+%7C+Godot+%7C+Unreal;Mission+Accepted."/>
+
+<p>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LEVEL-SOFTWARE_ENGINEER-a855ff?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/POWER-∞-ff2bd6?style=for-the-badge"/>
+
 </p>
 
+</div>
+
+---
+
+# ⚡ SYSTEM STATUS
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║ USER         :: Kayque Sekishiki                            ║
+║ CLASS        :: Software Engineer                           ║
+║ SPECIALTY    :: Frontend • Mobile • Games                   ║
+║ STATUS       :: ONLINE                                      ║
+║ XP           :: ███████████████████████████████ 100%        ║
+║ LOCATION     :: Brazil                                      ║
+║ BUILD        :: React Ecosystem                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 👤 PLAYER DATA
+
+```typescript
+class Developer {
+
+    readonly name = "Kayque 'Sekishiki' Lopes"
+
+    readonly role = "Software Engineer"
+
+    readonly frontend = [
+        "React",
+        "Next.js",
+        "React Native",
+        "Javascript",
+        "TypeScript"
+    ]
+
+    readonly backend = [
+        "Node",
+        "Express"
+    ]
+
+    readonly gameDev = [
+        "Unity",
+        "Godot",
+        "C#",
+        "GdScript"
+    ]
+
+    readonly testing = [
+        "Vitest",
+        "Jest",
+        "Cypress"
+    ]
+
+    readonly mission =
+        "Building software that people enjoy using."
+
+}
+```
+
+---
+
+# ⚔ TECH INVENTORY
+
+## FRONTEND
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,sass,vite"/>
+
+</p>
+
+---
+
+## BACKEND
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,nest,express,postgresql"/>
+
+</p>
+
+---
+
+## GAME DEV
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,godot,unreal,cs,mongodb"/>
+
+</p>
+
+---
+
+## TESTING
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=jest"/>
+
+<img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=vitest"/>
+
+<img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=cypress"/>
+
+</p>
+
+---
+
+# 📊 SKILL TREE
+
+```text
+React               █████████████████████░░░ 90%
+
+Next.js             █████████████████████░░░ 90%
+
+React Native        ████████████████░░░░░░░░ 75%
+
+TypeScript          ███████████████████░░░░░ 85%
+
+Node.js             ██████████████████░░░░░░ 80%
+
+Express             █████████████████░░░░░░░ 78%
+
+Unity               ████████████████████░░░░ 88%
+
+Godot               ███████████████░░░░░░░░░ 60%
+
+Testing             ███████████████████░░░░░ 84%
+```
+
+---
+
+# 🎮 ACTIVE QUESTS
+
+- ⚛ Creating modern React applications
+
+- 📱 Building mobile experiences with React Native
+
+- 🎮 Developing indie games
+
+- ⚡ Studying software architecture
+
+
+
+---
+
+# 📈 SYSTEM ANALYTICS
+
+<p align="center">
+
+<img height="180" src="https://github-stats-extended.vercel.app//api?username=KayqueSekishiki&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-stats-extended.vercel.app//api/top-langs/?username=KayqueSekishiki&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 COMBO STREAK
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=KayqueSekishiki&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION MATRIX
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KayqueSekishiki/KayqueSekishiki/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 GEAR
+
+```yaml
+Primary:
+  React
+
+Secondary:
+  Next.js
+
+Mobile:
+  React Native
+
+Backend:
+  Node.js
+
+Engine:
+  Unity
+  Godot
+
+Language:
+  JavaScript
+  TypeScript
+  Python
+  C#
+
+Power Source:
+  Coffee ☕
+
+```
+
+---
+
+# 🌃 CYBER TERMINAL
+
+```bash
+> whoami
+
+Kayque Sekishiki
+
+> current_status
+
+Building.
+Learning.
+Improving.
+
+> philosophy
+
+"Code is not just functionality.
+It is the art of creating experiences."
+```
+
+---
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/kayquesekishiki/kayquesekishiki/blob/output/github-contribution-grid-snake.gif)  
- 
-  
-  
-### Programming Languages:
-![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Lua](https://img.shields.io/badge/-lua-0D1117?style=for-the-badge&logo=lua&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React_Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+# 🌌 CONNECT
 
+<a href="https://linkedin.com/in/kayque-sekishiki">
+<img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
+<a href="https://kayquesekishiki.github.io/PORTFOLIO/">
+<img src="https://img.shields.io/badge/PORTFOLIO-a855ff?style=for-the-badge&logo=vercel"/>
+</a>
 
-
-### Tools:
-![Expo](https://img.shields.io/badge/expo-0D1117?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MongoDG](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp; 
-![Unity](https://img.shields.io/badge/-unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
-![Unreal](https://img.shields.io/badge/-Unreal-0D1117?style=for-the-badge&logo=unrealengine&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Microsoft Visual Studio](https://img.shields.io/badge/-Microsoft%20Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp; 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
-
-
-### Other Knowledge:  
-![Aseprite](https://img.shields.io/badge/-Aseprite-0D1117?style=for-the-badge&logo=aseprite&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Maya](https://img.shields.io/badge/-Autodesk%20Maya-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-
-
-
-### Find Me: 
-
-<div align="center">   
-<a href="https://www.linkedin.com/in/kayque-sekishiki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://kayquesekishiki.github.io/PORTFOLIO/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"</a>
-<a href="https://api.whatsapp.com/send?1=pt_BR&phone=5571993262967" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+<a href="mailto:helllo.kayque@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-ff2bd6?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
+---
 
+<div align="center">
 
+```
+  ██╗  ██╗ █████╗ ██╗   ██╗ ██████╗ ██╗   ██╗███████╗
+  ██║ ██╔╝██╔══██╗╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝
+█████╔╝ ███████║ ╚████╔╝ ██║   ██║██║   ██║█████╗
+██╔═██╗ ██╔══██║  ╚██╔╝  ██║▄▄ ██║██║   ██║██╔══╝
+  ██║  ██╗██║  ██║   ██║   ╚██████╔╝╚██████╔╝███████╗
+  ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚══▀▀═╝  ╚═════╝ ╚══════╝
+```
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+### 「 KEEP BUILDING • KEEP EVOLVING 」
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:ff2bd6,100:A855ff&height=120&section=footer"/>
+
+</div>
