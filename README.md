@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LEVEL-SOFTWARE_ENGINEER-a855ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CLASS-SOFTWARE_ENGINEER-a855ff?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/POWER-∞-ff2bd6?style=for-the-badge"/>
 
@@ -23,13 +23,14 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║ USER         :: Kayque Sekishiki                            ║
-║ CLASS        :: Software Engineer                           ║
-║ SPECIALTY    :: Frontend • Mobile • Games                   ║
-║ STATUS       :: ONLINE                                      ║
-║ XP           :: ███████████████████████████████ 100%        ║
-║ LOCATION     :: Brazil                                      ║
-║ BUILD        :: React Ecosystem                             ║
+║ USER         :: Kayque Sekishiki                             ║
+║ CLASS        :: Software Engineer                            ║
+║ SPECIALTY    :: Frontend • Mobile • Games                    ║
+║ STATUS       :: ONLINE                                       ║
+║ LEVEL        :: 31                                           ║
+║ XP           :: █████████████████████████░░░░░ 85%           ║
+║ LOCATION     :: Brazil                                       ║
+║ BUILD        :: React Ecosystem                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -280,6 +281,6 @@ It is the art of creating experiences."
 
 ### 「 KEEP BUILDING • KEEP EVOLVING 」
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:ff2bd6,100:A855ff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:ff2bd6,100:A855ff&height=280&section=footer"/>
 
 </div>
