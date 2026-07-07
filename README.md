@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00FFFF,50:A855FF,100:FF2BD6&text=「 KAYQUE%20SEKISHIKI 」&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Game%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00FFFF,50:A855FF,100:FF2BD6&text=%E3%80%8C%20KAYQUE%20SEKISHIKI%20%E3%80%8D&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Game%20Developer&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=BOOTING+SYSTEM...;Initializing+Engineer+Profile...;React+%7C+Next+%7C+Node;Unity+%7C+Godot+%7C+Unreal;Mission+Accepted."/>
 
